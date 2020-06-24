@@ -1,0 +1,38 @@
+/* My main style*/
+body{
+    background: rgb(89, 89, 77);
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.container{
+    margin: 1em;
+}
+*{
+    color: white;
+}
+h1, h3{
+    color: rgb(153, 194, 255);
+}
+.mine {
+    color: rgb(255, 204, 0);
+}
+a{
+    color: crimson;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.imageSize{
+    width: 300px;
+}
+#miu{
+    color:chartreuse;
+}
+#miuName{
+    margin: 6.8em
+}
+.validatorDiv{
+    margin-top: 1.5em;
+}

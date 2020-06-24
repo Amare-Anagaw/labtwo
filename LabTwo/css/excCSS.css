@@ -1,0 +1,29 @@
+#outer {
+    border: 2px dashed black;
+    /*overflow: hidden;*/
+    padding: 10px;
+}
+.box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+    /*float: left;*/
+}
+.break {
+    clear: left;
+}
+.menuList{
+    display: inline-block;
+    border: 1px solid black;
+    list-style-type: none;
+    background: white;
+    padding: 1em;
+    font-size: 20px;
+
+}
+.menuBg{
+    background: red;
+    padding: 1em;
+}
